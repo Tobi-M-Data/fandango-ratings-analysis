@@ -49,7 +49,7 @@ To crack the case, we relied on some powerful tools:
 ```
 CASE_EVIDENCE/
 │
-├── 🔎 Fandango_Movie_Ratings.ipynb    # The detective's notebook packed with insights
+├── 🔎 Fandango Movie Ratings.ipynb    # The detective's notebook packed with insights
 ├── 📊 fandango_score_comparison.csv   # The definitive 2015 records
 └── 📈 movie_ratings_16_17.csv         # The 2016 paper trail of evidence
 ```
