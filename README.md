@@ -49,9 +49,9 @@ To crack the case, we relied on some powerful tools:
 ```
 CASE_EVIDENCE/
 │
-├── 🔎 Fandango Movie Ratings.ipynb    # The detective's notebook packed with insights
-├── 📊 fandango_score_comparison.csv   # The definitive 2015 records
-└── 📈 movie_ratings_16_17.csv         # The 2016 paper trail of evidence
+├── 🔎 https://github.com/Tobi-M-Data/fandango-ratings-analysis/blob/main/Fandango%20Movie%20Ratings.ipynb      # The detective's notebook packed with insights
+├── 📊 https://github.com/Tobi-M-Data/fandango-ratings-analysis/blob/main/fandango_score_comparison.csv         # The definitive 2015 records
+└── 📈 https://github.com/Tobi-M-Data/fandango-ratings-analysis/blob/main/movie_ratings_16_17.csv               # The 2016 paper trail of evidence
 ```
 
 ### 🎭 The Plot Twist
